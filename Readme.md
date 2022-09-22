@@ -3,17 +3,29 @@
 # Core Python
 ## Operators
 
-###      Assignment Operator
-###      
+### ----->Assignment Operator
+### ----->Bitwise Operator
+### ----->Membership Operator     
+### ----->Identity Operator
+### ----->Airthmetic Operator
+### ----->Comparision Operator
+### ----->Logical Operator 
+
+## Conditional Statement
+
+### -----> if-else
+### -----> if- elif - else
+### -----> nasted if-else
+### -----> group condition using logical Operator
+
+
 ## Collection 
 
-###       List
-###       Tuple
-###       Dictonary
-###       Set
+### ----->List
+### ----->Tuple
+### ----->Dictonary
+### ----->Set
 
 ## Loops
-
-###       For Loop 
-###       While Loop
-
+### ----->For Loop 
+### ----->fWhile Loop
