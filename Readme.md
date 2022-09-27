@@ -28,4 +28,4 @@
 
 ## Loops
 ### ----->For Loop 
-### ----->fWhile Loop
+### ----->While Loop
