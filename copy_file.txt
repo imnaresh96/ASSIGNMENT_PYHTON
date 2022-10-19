@@ -1,0 +1,3 @@
+hello this is demo for write data in fileits use to open and append data to end of file data 
+its use to open and append data to end of file data
+ its use to open and append data to end of file data
